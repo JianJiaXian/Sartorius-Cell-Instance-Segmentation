@@ -2,8 +2,8 @@
 
  [Competition Page](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation)
 
-> 📍 NCKU "Machine Learning" Final Project  
-> 🎯 Focus: Instance segmentation of neural cells (SH-SY5Y) using Mask R-CNN & ensembling
+>  NCKU "Machine Learning" Final Project  
+>  Focus: Instance segmentation of neural cells (SH-SY5Y) using Mask R-CNN & ensembling
 
 ---
 
