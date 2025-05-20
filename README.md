@@ -20,7 +20,7 @@ Download from Kaggle:
 kaggle competitions download -c sartorius-cell-instance-segmentation
 ```
 
-<p align="center">
+<p align="left">
   <img src="./readme_img/kaggle_img.png" width="600"/>
 </p>
 
@@ -28,7 +28,7 @@ Backup links:
 - [ Dataset (Google Drive)](https://drive.google.com/file/d/1n76PHLwMhEj7LdhSUDbYDPOv75D06bkU/view?usp=sharing)
 - [ Annotation JSON Files](https://drive.google.com/drive/folders/15_k-MsnejPnD18CqypdHxiF3MBW0hu1D?usp=sharing)
 
-<p align="center">
+<p align="left">
   <img src="./readme_img/image_ann.png" width="600"/>
 </p>
 
@@ -70,7 +70,7 @@ Full details in [ sartorius_methods.pdf](https://github.com/JianJiaXian/Sartoriu
 | `inference.py` | Run inference using `.pth` models |
 | `ensemble_inference.py` | Apply model ensembling or TTA |
 
-<p align="center">
+<p align="left">
   <img src="./readme_img/ensemble_inference.png" width="650"/>
 </p>
 
@@ -102,13 +102,13 @@ Details: [ experiment_result.pdf](https://github.com/JianJiaXian/Sartorius-Cell-
 -  Final public score: **0.316 mAP**
 -  Rank: **179 / 1506**
 
-<p align="center">
+<p align="left">
   <img src="./readme_img/result-179_1506.png" width="600"/>
 </p>
 
 The top-5 teams achieved around **0.35 mAP**.
 
-<p align="center">
+<p align="left">
   <img src="./readme_img/top5.png" width="600"/>
 </p>
 
