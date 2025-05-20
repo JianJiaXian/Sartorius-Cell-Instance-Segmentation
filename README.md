@@ -51,7 +51,7 @@ pip install fastcore ensemble-boxes nms
 
 ##  Methods Overview
 
-Full details in [ sartorius_methods.pdf](https://github.com/chia-shein/Sartorius---Cell-Instance-Segmentation/blob/main/sartorius_methods.pdf)
+Full details in [ sartorius_methods.pdf](https://github.com/JianJiaXian/Sartorius-Cell-Instance-Segmentation/blob/main/sartorius_methods.pdf)
 
 1. Mask R-CNN (ResNet50 / ResNeXt101)
 2. Model Ensembling
@@ -78,7 +78,7 @@ Full details in [ sartorius_methods.pdf](https://github.com/chia-shein/Sartorius
 
 ##  Experiment Results
 
-Details: [ experiment_result.pdf](https://github.com/chia-shein/Sartorius---Cell-Instance-Segmentation/blob/main/experiment_result.pdf)
+Details: [ experiment_result.pdf](https://github.com/JianJiaXian/Sartorius-Cell-Instance-Segmentation/blob/main/experiment_result.pdf)
 
 ###  Ablation Study
 
